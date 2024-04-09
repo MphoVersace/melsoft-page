@@ -4,6 +4,12 @@
 	Add all your Custom Styled CSS here for New Styles or
 	Overwriting Default Theme Styles for Better Handling Updates
 -----------------------------------------------------------------*/
-.thisheader {
-  background-color: red !important;
+/* this is for the background of the logpo  */
+.mango {
+  background-color: green;
+}
+
+/* this is the css for the logo melsoft */
+.logo-default {
+  height: 200px;
 }
