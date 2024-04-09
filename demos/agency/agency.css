@@ -3,7 +3,7 @@
 -----------------------------------------------------------------*/
 
 :root {
-  --cnvs-themecolor: #627dc0;
+  --cnvs-themecolor:  #070f2b;
   --cnvs-themecolor-rgb: 12, 187, 98;
 }
 
@@ -12,7 +12,7 @@
   --cnvs-primary-menu-ls: 1px;
   --cnvs-primary-menu-font-size: 28px;
   --cnvs-primary-menu-font-weight: 700;
-  --cnvs-header-border-color: blue;
+  --cnvs-header-border-color: #1B1A55
 
   --cnvs-primary-menu-submenu-font-size: 28px;
 }

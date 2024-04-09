@@ -13,3 +13,13 @@
 .logo-default {
   height: 200px;
 }
+
+/* overall header container that covers the header and we changed its colour to this  */
+#header-wrap{
+  background-color: #070f2b !important;
+}
+
+/* all the nav links that have this class , we are changing their colour to white  */
+.menu-link{
+  color: white;
+}
