@@ -15,20 +15,29 @@
 }
 
 /* overall header container that covers the header and we changed its colour to this  */
-#header-wrap{
+#header-wrap {
   background-color: #070f2b !important;
 }
 
 /* all the nav links that have this class , we are changing their colour to white  */
-.menu-link{
+.menu-link {
   color: white;
 }
 
-.imgthree{
-  height:900px
+.imgthree {
+  height: 900px;
 }
 
 /* background color for the sections */
-#slider,#content,#footer{
-  background-color:  #070f2b;
+#slider,
+#content,
+#footer {
+  background-color: #070f2b;
+}
+/* text color for all text in the page */
+p,
+h3,
+h4,
+small {
+  color: white !important;
 }
