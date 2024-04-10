@@ -6,8 +6,6 @@
 -----------------------------------------------------------------*/
 /* this is for the background of the logpo  */
 
-
-
 .mango {
   background-color: #070f2b;
 }
@@ -51,6 +49,10 @@ li {
 }
 
 /* for icons */
-.i-plain{
+.i-plain {
   color: yellow !important;
+}
+/* center Privacy policy*/
+a,div{
+  text align-self: start;
 }
