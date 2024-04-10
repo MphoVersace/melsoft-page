@@ -49,3 +49,8 @@ ul,
 li {
   color: white !important;
 }
+
+/* for icons */
+.i-plain{
+  color: yellow !important;
+}
