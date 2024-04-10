@@ -41,3 +41,8 @@ h4,
 small {
   color: white !important;
 }
+/* text color for all contact section */
+ul,
+li {
+  color: white !important;
+}
