@@ -17,4 +17,6 @@ Bootstrap: Leveraged to augment responsiveness and expedite development, while m
 Customization:
 While utilizing a comprehensive Bootstrap template as a foundation, I tailored it to align with my preferences and the specific requirements of the Melsoft website. This involved meticulous adjustments in layout, typography, color scheme, and interactive elements to achieve a seamless integration with the brand identity of Melsoft.
 
+For more info hit me up @ mtlomelompho@gmail.com
+
 
