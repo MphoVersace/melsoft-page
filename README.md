@@ -5,5 +5,5 @@ Objective: The main goal of this project was to recreate the Home Page of Melsof
 Technologies Used: I utilized HTML to structure the content, CSS for styling, and Bootstrap to enhance responsiveness and streamline development.
 Customization: While using a full Bootstrap template as a base, I customized it according to my preferences and the requirements of the Melsoft website.
 How to Access the Project:
-Viewing the Website: The completed project can be accessed here. Feel free to explore the website and provide feedback.
-Source Code: The source code for this project is available on GitHub. You can find it here.
+Viewing the Website: The completed project can be accessed here https://mphoversace.github.io/melsoft-page/ Feel free to explore the website and provide feedback.
+Source Code: The source code for this project is available on GitHub. You can find it here 
